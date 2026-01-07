@@ -3,58 +3,53 @@ Moje Projekty IT
 Witaj,
 To repozytorium prezentuje moje projekty informatyczne oraz doświadczenie zdobyte podczas praktyk w trakcie nauki w technikum informatycznym. Projekty te ilustrują moje umiejętności w obszarach administracji systemami, sieci komputerowych oraz wirtualizacji.
 
-Projekty i doświadczenie
+Projekty i doświadczenie:
 
-HomeLab – Serwer Proxmox
+- HomeLab – Serwer Proxmox
 
-Instalacja i konfiguracja Proxmox VE
+- Instalacja i konfiguracja Proxmox VE
 
-Zarządzanie maszynami wirtualnymi
+- Zarządzanie maszynami wirtualnymi
 
-Konfiguracja serwera NAS do przechowywania danych
+- Konfiguracja serwera NAS do przechowywania danych
 
-Konfiguracja pfSense jako routera i firewalla
+- Konfiguracja pfSense jako routera i firewalla
 
-Bezpieczny dostęp zdalny poprzez VPN Tailscale
+- Bezpieczny dostęp zdalny poprzez VPN Tailscale
 
-Segmentacja sieci i podstawowe zabezpieczenia
+- Segmentacja sieci i podstawowe zabezpieczenia
 
-Praktyki w firmie Midiko (dostawca internetu)
+- Praktyki w firmie Midiko (dostawca internetu)
 
-Instalacja i konfiguracja sieci domowych klientów
+- Instalacja i konfiguracja sieci domowych klientów
 
-Diagnostyka sprzętu i oprogramowania
+- Diagnostyka sprzętu i oprogramowania
 
-Wsparcie administracyjne i konfiguracja urządzeń sieciowych
+- Wsparcie administracyjne i konfiguracja urządzeń sieciowych
 
-Certyfikat Cisco IT Essentials
+Certyfikat Cisco IT Essentials:
 
-Cisco IT Essentials: PC Hardware and Software (wydany 04.06.2023)
+-Cisco IT Essentials: PC Hardware and Software (wydany 04.06.2023)
 
-Zakres: podstawy sprzętu komputerowego, systemów operacyjnych, diagnostyka i rozwiązywanie problemów IT
+Zakres: 
+-podstawy sprzętu komputerowego, systemów operacyjnych, diagnostyka i rozwiązywanie problemów IT
 
-Technologie
+Technologie:
 
-Systemy operacyjne: Windows, Linux
+- Systemy operacyjne: Windows, Linux, Mac
 
-Wirtualizacja: Proxmox VE
+- Wirtualizacja: Proxmox VE
 
-Firewall / Routing: pfSense
+- Firewall / Routing: pfSense
 
-VPN: Tailscale
+- VPN: Tailscale
 
-Serwery plików: NAS
+- Serwery plików: NAS
 
-Języki i narzędzia web: HTML, CSS, JavaScript (wykorzystywane do tej strony)
+- Języki i narzędzia web: HTML, CSS, JavaScript (wykorzystywane do tej strony)
 
 Cel repozytorium
 
 Repozytorium stanowi portfolio moich projektów IT, które może być prezentowane rekruterom lub użyte w CV. Pokazuje moje kompetencje w zakresie:
 
-administracji systemami i sieciami,
-
-wirtualizacji,
-
-bezpieczeństwa sieci,
-
-tworzenia prostych projektów webowych do prezentacji umiejętności.
+administracji systemami i sieciami, wirtualizacji, bezpieczeństwa sieci, tworzenia prostych projektów webowych do prezentacji umiejętności.
